@@ -2,11 +2,15 @@
 This project is a console-based shopping application developed in Java using JDBC (Java Database Connectivity) to connect and interact with a relational database. It simulates a basic e-commerce experience, allowing users to browse products, manage carts, and place orders.
 
 # Key Features:
-  📦 View available mobile products with details (brand, model, price, quantity)
-  ➕ Add products to the shopping cart
-  🛍️ Place an order and generate a basic order summary
-  🗃️ Interact with a relational database (like MySQL) to store and retrieve product and order details
-  ✅ Input validation and simple error handling
+  📦 View available mobile products with details (brand, model, price, quantity).
+  
+  ➕ Add products to the shopping cart.
+  
+  🛍️ Place an order and generate a basic order summary.
+  
+  🗃️ Interact with a relational database (like MySQL) to store and retrieve product and order details.
+  
+  ✅ Input validation and simple error handling.
 
 # Technologies Used:
   1) Java – Core application logic
